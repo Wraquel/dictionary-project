@@ -1,0 +1,17 @@
+h3 {
+  font-size: 30px;
+  text-align: left;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  font-style: italic;
+}
+.Definition {
+  font-size: 20px;
+  margin: 0px 20px 10px;
+  color: maroon;
+}
+.Exemple {
+  font-size: 18px;
+  margin: 10px 20px;
+  font-style: italic;
+}

@@ -1,0 +1,12 @@
+ul {
+  list-style: none;
+  padding: 10px 50px;
+}
+li {
+  display: inline-block;
+  padding: 5px 7px;
+  margin: 3px;
+  border: solid 1px #87878b;
+  border-radius: 15px;
+  background-color: rgb(243, 187, 113);
+}

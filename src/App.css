@@ -1,11 +1,8 @@
-.App {
-  text-align: center;
-}
 .App header {
   margin: 50px auto;
 }
 .App h1 {
-  font-size: 40px;
+  font-size: 50px;
   color: maroon;
 }
 .App footer {

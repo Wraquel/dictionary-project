@@ -1,4 +1,5 @@
-.Dictionary {
-  border: 1px solid salmon;
-  padding: 30px;
+.Dictionary input {
+  padding: 8px;
+  border-radius: 15px;
+  border: solid 1px #aaaaad;
 }
