@@ -18,7 +18,7 @@ function App() {
             <a
               href="https://github.com/Wraquel/dictionary-project"
               target="_blank"
-              rel="noopener"
+              rel="noreferrer"
             >
               Open-source
             </a>{" "}
