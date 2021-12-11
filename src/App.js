@@ -9,11 +9,14 @@ function App() {
           <h1>Dictionary</h1>
         </header>
         <main>
-          <Dictionary defaultKeyword="forest" />
+          <Dictionary defaultKeyword="magma" />
         </main>
         <footer className="text-center">
           {" "}
-          <small> Coded by Raquel Wetzel</small>
+          <small>
+            {" "}
+            <a href="/">Open-source</a> by Raquel Wetzel
+          </small>
         </footer>
       </div>
     </div>

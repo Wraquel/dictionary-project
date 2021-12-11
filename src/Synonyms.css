@@ -1,6 +1,6 @@
 ul {
   list-style: none;
-  padding: 10px 50px;
+  padding: 0px 50px;
 }
 li {
   display: inline-block;
@@ -8,5 +8,5 @@ li {
   margin: 3px;
   border: solid 1px #87878b;
   border-radius: 15px;
-  background-color: rgb(243, 187, 113);
+  background-color: #f8c96d;
 }

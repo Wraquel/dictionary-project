@@ -6,12 +6,13 @@ h3 {
   font-style: italic;
 }
 .Definition {
-  font-size: 20px;
+  font-size: 18px;
   margin: 0px 20px 10px;
-  color: maroon;
 }
 .Exemple {
   font-size: 18px;
-  margin: 10px 20px;
+  margin: 10px 25px;
   font-style: italic;
+  color: #4b5b63;
+  font-family: "Playfair Display", serif;
 }
