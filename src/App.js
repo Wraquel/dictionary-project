@@ -15,7 +15,14 @@ function App() {
           {" "}
           <small>
             {" "}
-            <a href="/">Open-source</a> by Raquel Wetzel
+            <a
+              href="https://github.com/Wraquel/dictionary-project"
+              target="_blank"
+              rel="noopener"
+            >
+              Open-source
+            </a>{" "}
+            by Raquel Wetzel
           </small>
         </footer>
       </div>

@@ -1,11 +1,17 @@
+:root {
+  --first-color: rgba(245, 245, 245, 0.849);
+  --second-color: rgba(0, 0, 0, 0.541);
+  --third-color: rgba(0, 0, 0, 0.1);
+  --fourth-color: rgba(0, 0, 0, 0.856);
+}
 .Results {
-  background-color: rgba(245, 245, 245, 0.849);
+  background-color: var(--first-color);
   max-width: 600px;
   min-width: 500px;
   margin: 20px auto;
   border-radius: 6px;
-  border: 1px solid rgba(0, 0, 0, 0.541);
-  box-shadow: 3px 5px 12px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--second-color);
+  box-shadow: 3px 5px 12px var(--third-color);
 }
 
 h2 {
